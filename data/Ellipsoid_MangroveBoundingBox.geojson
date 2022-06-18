@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "D:\\GIS Projects\\2022\\CameraTest\\CameraTransform\\Ellipsoid_MangroveBoundingBox.geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "mfd_id": "5", "Type": "Mangroves", "Shape_Leng": "412.71078", "Shape_Area": "2854.1914", "OBJECTID": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.70690997500003, -36.461052382999981, 35.974414825439453 ], [ 174.707713188000071, -36.461040889999936, 35.796585083007812 ], [ 174.707729198000038, -36.461770799999954, 35.753337860107422 ], [ 174.706925978000072, -36.461782292999942, 35.954936981201172 ], [ 174.70690997500003, -36.461052382999981, 35.974414825439453 ] ] ] } }
+]
+}
